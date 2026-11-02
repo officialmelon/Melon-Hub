@@ -1,13 +1,6 @@
 --[[
 ==============================================================================
-  MSVD | Melon - single file release
-
-  Target place : 4348829796 (MVSD | Murderers VS Sheriffs Duels)
-  UI library   : Iris (vendored + patched, see lib/Iris.lua)
-  Settings I/O : <workspace>/MSVD_Melon/<name>.json
-
-  Generated from src/ by tools/make_main.py.  Edit the fragments and re-run
-  that script, or edit this file directly - there is no runtime build step.
+  Melon Hub - @officiallymelon on dc
 ==============================================================================
 ]]
 
