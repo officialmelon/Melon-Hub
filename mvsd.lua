@@ -16668,7 +16668,7 @@ task.spawn(function()
     end
 end)
 
-local RELOAD_URL = nil
+local RELOAD_URL = "https://github.com/officialmelon/Melon-Hub/raw/refs/heads/main/mvsd.lua"
 
 if RELOAD_URL then
     queue_on_teleport(
